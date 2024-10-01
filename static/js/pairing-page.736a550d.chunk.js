@@ -1,3 +1,2 @@
-<?xml version="1.0" encoding="utf-8"?><Error><Code>PublicAccessNotPermitted</Code><Message>Public access is not permitted on this storage account.
-RequestId:853c7786-801e-0017-37dd-13c10b000000
-Time:2024-10-01T08:43:31.5352750Z</Message></Error>
+"use strict";(self.__LOADABLE_LOADED_CHUNKS__=self.__LOADABLE_LOADED_CHUNKS__||[]).push([[56572],{22006:(e,t,r)=>{r.d(t,{b:()=>l});r(6886);var n=r(52322),o=r(2784),a=r(9420),i=r(84354),s=r(94689);const l=e=>{let{navigationContext:t="page"}=e;const{RouterProvider:r}=(0,s.T)(),l=(0,i.J)(),[c,u]=(0,o.useState)();return(0,n.jsx)(a.G.Provider,{value:{navigationContext:t,controllerType:c,setControllerType:u},children:(0,n.jsx)(r,{router:l})})}},21981:(e,t,r)=>{r.r(t),r.d(t,{PairingPage:()=>_,default:()=>g});var n=r(52322),o=r(15946),a=r(2784),i=r(22006),s=r(84354),l=r(76097),c=r(62598),u=r(5801);const _=()=>{(0,c.A)();const e=(0,s.J)();return(0,a.useEffect)((()=>{e.resetNavigation(),e.navigate(l.B9.getLink(),{replace:!0})}),[e]),(0,n.jsx)(u.Pl,{location:"PairingPage",children:(0,n.jsx)(o.FocusContainer,{autoFocusContainer:!0,children:(0,n.jsx)(i.b,{})})})},g=_}}]);
+//# sourceMappingURL=pairing-page.736a550d.chunk.js.map
